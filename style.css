@@ -91,17 +91,17 @@ input:checked + label .description {
 }
 
 label[for="c1"] {
-    background-image: url('kyoto.png');
+    background-image: url('images/kyoto.png');
 }
 
 label[for="c2"] {
-    background-image: url('shibuya.png');
+    background-image: url('images/shibuya.png');
 }
 
 label[for="c3"] {
-    background-image: url('rx7.png');
+    background-image: url('images/rx7.png');
 }
 
 label[for="c4"] {
-    background-image: url('coffeeshop.png');
+    background-image: url('images/coffeeshop.png');
 }
